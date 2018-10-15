@@ -1,0 +1,29 @@
+{
+  "name": "submibot_docs",
+  "version": "1.0.0",
+  "description": "O SubmiBot é um plug-in de submissão de tarefas do Eclipse IDE para o Canvas (Ferramenta de Sala de Aula) baseado na automação do processo de zipagem e envio de um projeto.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server --cors -o -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubmiBot/Docs.git"
+  },
+  "keywords": [
+    "submibot",
+    "docs",
+    "plugin",
+    "eclipse",
+    "java"
+  ],
+  "author": "SubmiBot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SubmiBot/Docs/issues"
+  },
+  "homepage": "https://github.com/SubmiBot/Docs#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
